@@ -1,0 +1,5 @@
+C:\Users\Aluno\Desktop\jogadores\obj\Debug\net6.0\jogadores.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\jogadores\obj\Debug\net6.0\jogadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\jogadores\obj\Debug\net6.0\jogadores.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\jogadores\obj\Debug\net6.0\jogadores.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\jogadores\obj\Debug\net6.0\jogadores.csproj.CoreCompileInputs.cache
